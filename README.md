@@ -1,17 +1,51 @@
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_._himanshu.______) 
+### Hey, I'm Himanshu
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=himanshu0072451&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=himanshu0072451&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu0072451&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+I build mobile apps and backend systems, usually with an eye toward privacy and doing more with less infrastructure. Lately that's meant a fully offline, encrypted photo vault for Android/iOS, a Hindi voice RAG assistant, and a few production-style backends around recommendation systems and streaming.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=himanshu0072451&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Obsidian
+
+A private, encrypted photo vault for Android and iOS. no backend, no account, no network calls. Import a photo and it's encrypted on-device with AES-256; the original is wiped from your gallery. Built with React Native + Expo, with biometric lock and screenshot prevention.
+
+**[→ himanshu0072451/obsidian-vault](https://github.com/himanshu0072451/obsidian-vault)** · `React Native` `Expo` `TypeScript` `AES-256`
+
+---
+
+### Other projects
+
+- **[Baatcheet](https://github.com/himanshu0072451/baatcheet)** — a Hindi voice RAG assistant: speak or type a question, it retrieves from a locally-embedded corpus and answers strictly from that context. Built for Hacker House Goa 2026. `Next.js` `Hugging Face Transformers` `Groq`
+- **[adaptive-music-engine](https://github.com/himanshu0072451/adaptive-music-engine)** — a music recommendation and streaming backend with genre/behavior-based ranking, Spotify integration, and Redis-backed caching. `Node.js` `Express` `MongoDB` `Redis`
+
+---
+
+### Tech I work with
+
+**Languages**
+TypeScript · JavaScript · Kotlin · Python . C++ . Php
+
+**Mobile**
+React Native · Expo · Android · Reanimated · NativeWind · React Navigation
+
+**Backend**
+Node.js · Express · MongoDB · Redis · Firebase · REST APIs . Flask . FastAPI . Sql
+
+**Security & Privacy**
+AES-256 Encryption · JWT · bcrypt · Biometric Auth · Secure Storage
+
+**AI**
+RAG · Hugging Face Transformers · Groq
+
+**Tools**
+Git · GitHub · Next.js · Tailwind CSS · FFmpeg
+
+**Hardware & Debugging**  
+ESP32 · Raspberry Pi · Arduino · Embedded Systems · UART/Serial · COM/USB Debugging · Logic Analyzers · Wireshark
+
+---
+
+### Find me
+
+**Email:** [him4nshudev@gmail.com](mailto:him4nshudev@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/911him4nshu)

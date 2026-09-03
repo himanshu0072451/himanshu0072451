@@ -4,11 +4,11 @@ I build mobile apps and backend systems, usually with an eye toward privacy and 
 
 ---
 
-### Obsidian
+### Veilo
 
 A private, encrypted photo vault for Android and iOS. no backend, no account, no network calls. Import a photo and it's encrypted on-device with AES-256; the original is wiped from your gallery. Built with React Native + Expo, with biometric lock and screenshot prevention.
 
-**[→ himanshu0072451/obsidian-vault](https://github.com/himanshu0072451/obsidian-vault)** · `React Native` `Expo` `TypeScript` `AES-256`
+**[→ himanshu0072451/veilo](https://github.com/himanshu0072451/veilo)** · `React Native` `Expo` `TypeScript` `AES-256`
 
 ---
 
